@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Condicionales", "Condicionales", "{F7AE3BFE-8ADE-E464-1715-C65DA0395071}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ejercicio1", "Condicionales\ejercicio1\ejercicio1.csproj", "{BAFFC2C0-C404-8994-4EF7-E5E45E11F184}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAFFC2C0-C404-8994-4EF7-E5E45E11F184}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAFFC2C0-C404-8994-4EF7-E5E45E11F184}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAFFC2C0-C404-8994-4EF7-E5E45E11F184}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAFFC2C0-C404-8994-4EF7-E5E45E11F184}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{BAFFC2C0-C404-8994-4EF7-E5E45E11F184} = {F7AE3BFE-8ADE-E464-1715-C65DA0395071}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78C617B4-595B-407B-9080-541E17EFC27C}
+	EndGlobalSection
+EndGlobal
